@@ -1,3 +1,5 @@
+# Create example CSV
+
 require 'csv'
 
 CSV.open('data/test.csv', 'wb') do |csv|

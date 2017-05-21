@@ -1,3 +1,10 @@
+# Download Free O'Reilly Books
+# ----------------------------
+# O'Reilly has many free books for download, around 250 or so. So, automating
+# the download of all of them seemed in order. Uncomment the 'topics' array to
+# specify what book topics you want to download.
+# Note: dowloading can take a while.
+
 require 'open-uri'
 require 'nokogiri'
 

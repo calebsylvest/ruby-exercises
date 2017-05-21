@@ -1,3 +1,5 @@
+# Craigslist Job Scraper
+
 require 'open-uri'
 require 'nokogiri'
 

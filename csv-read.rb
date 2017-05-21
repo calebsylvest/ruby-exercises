@@ -1,3 +1,5 @@
+# CSV Importer
+
 require 'csv'
 
 CSV.foreach ('data/ideas.csv') do |row|

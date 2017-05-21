@@ -1,3 +1,5 @@
+# Classic FizzBuzz Exercise
+
 #!/usr/bin/env ruby
 
 # (1..60).each do |num|
