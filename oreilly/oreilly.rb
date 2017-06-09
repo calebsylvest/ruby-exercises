@@ -11,10 +11,10 @@ require 'nokogiri'
 domain = "http://www.oreilly.com/"
 
 topics = [
-  'design',
-  'business',
-  'data',
-  # 'iot',
+  # 'design',
+  # 'business',
+  # 'data',
+  'iot',
   # 'programming',
   # 'security',
   # 'webdev',
